@@ -15,7 +15,6 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 - [What Makes BillBuddy Unique?](#what-makes-billbuddy-unique)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
