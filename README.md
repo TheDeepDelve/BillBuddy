@@ -2,66 +2,102 @@
 
 **Smart Expense Management & Bill Splitting for Android**
 
-BillBuddy is an Android application designed to simplify expense tracking, group bill splitting, and financial discussions. Built with Kotlin and Firebase, it offers a modern, intuitive interface for managing your finances collaboratively.
+BillBuddy is a modern Android app that makes expense tracking, group bill splitting, and financial collaboration effortless. Built with Kotlin and Firebase, it features a beautiful UI, real-time sync, and integrated chat for seamless group management.
 
 ---
 
-## Table of Contents
+## 🚀 Features at a Glance
 
-- [Core Features](#core-features)
-- [Tech Stack](#tech-stack)
-- [Project Highlights](#project-highlights)
----
-
-## Core Features
-
-*   **Secure User Authentication:** Easy sign-up/login with Email/Password.
-*   **Expense Tracking:** Log, categorize (Food, Travel, etc.), and manage personal expenses with detailed views and history.
-*   **Bill Splitting:**
-    *   Split bills equally or assign custom amounts.
-    *   Select multiple participants and track settled/unsettled amounts.
-    *   View a clear history of all splits.
-*   **Integrated Chat:** Communicate with other users directly within the app for expense-related discussions.
-*   **Financial Reporting & Visualization:**
-    *   Monthly expense summaries and category-wise analysis.
-    *   Pie charts and progress bars for at-a-glance understanding of spending habits and budget status.
-*   **Budget Management:** Set budgets for different categories and get alerts.
-*   **Modern UI/UX:**
-    *   Material Design 3 principles.
-    *   Support for Light & Dark themes.
-    *   Engaging Lottie animations.
+- **Secure Authentication:** Sign up and log in with email/password.
+- **Expense Tracking:** Log, categorize, and review expenses with detailed history.
+- **Smart Bill Splitting:**
+  - Split bills equally or assign custom shares.
+  - Add multiple participants, track settlements, and view split history.
+- **Integrated Chat:** Discuss expenses and settlements directly in-app.
+- **Financial Insights:**
+  - Monthly summaries, category analysis, and budget tracking.
+  - Visuals: Pie charts, progress bars, and more.
+- **Budget Management:** Set category budgets and receive alerts.
+- **Modern UI/UX:**
+  - Material Design 3, light/dark themes, and Lottie animations.
 
 ---
 
-## Tech Stack
+## 🖼️ App Interface Previews
 
-*   **Language:** Kotlin
-*   **Platform:** Android (Min SDK 24, Target SDK 34)
-*   **Architecture:** MVVM (Model-View-ViewModel)
-*   **Backend & Database:**
-    *   Authentication (Email/Password)
-    *   Firebase Realtime Database (User data, expenses, splits, chats, budgets)
-    *   Firebase Cloud Storage (Profile pictures)
-*   **UI & Graphics:**
-    *   Android XML Layouts
-    *   Material Design Components
-    *   ViewBinding, RecyclerView, CardView
-    *   Glide (Image Loading)
-    *   Lottie (Animations)
-*   **Local Cache:** SharedPreferences (for some user preferences and cached data)
-*   **Chat/Communication:**
-    *   Firebase Realtime Database
-    *   Agora VideoUIKit & RTC SDK (for video call integration)
-*   **Build Tool:** Gradle
-*   **Other Key Libraries:** Gson
+### Home Page
+![Home Page](Interfaces/Home%20Page.gif)
+
+### Track Expense
+![Track Expense](Interfaces/Track%20Expense.jpg)
+
+### Split Bill
+![Split Bill](Interfaces/Split%20Bill.jpg)
+
+### Chat
+![Chat](Interfaces/Chat.jpg)
+
+### User Profile
+![User Profile](Interfaces/User%20Profile.gif)
 
 ---
 
-## Project Highlights
+## 🛠️ Tech Stack
 
-BillBuddy isn't just another expense tracker. Here's what sets it apart:
+- **Language:** Kotlin
+- **Platform:** Android (Min SDK 24, Target SDK 34)
+- **Architecture:** MVVM
+- **Backend:**
+  - Firebase Authentication
+  - Firebase Realtime Database (expenses, splits, chats, budgets)
+  - Firebase Cloud Storage (profile pictures)
+- **UI:**
+  - Android XML Layouts, Material Components
+  - ViewBinding, RecyclerView, CardView
+  - Glide (images), Lottie (animations)
+- **Local Storage:** SharedPreferences
+- **Communication:**
+  - Firebase Realtime Database
+  - Agora VideoUIKit & RTC SDK (video calls)
+- **Build Tool:** Gradle
+- **Other Libraries:** Gson
 
-*   **Seamless Integration:** Combines individual expense tracking, group bill splitting, and direct user-to-user chat into one cohesive experience.
-*   **Real-time Collaboration:** Firebase ensures that all data, from new expenses to chat messages and bill splits, is synchronized instantly across all participants' devices.
-*   **User-Centric Design:** Thoughtful UI/UX with modern Material Design, engaging animations, and customizable themes make managing finances less of a chore.
-*   **Comprehensive Financial Overview:** From detailed expense logs to visual charts and budget tracking, users get a clear picture of their financial health.
+---
+
+## ✨ What Makes BillBuddy Unique?
+
+- **All-in-One Solution:** Combines expense tracking, bill splitting, and chat in a single app.
+- **Real-Time Collaboration:** Instant sync of expenses, chats, and splits across all devices.
+- **User-Centric Design:** Clean, modern UI with smooth animations and theme support.
+- **Comprehensive Insights:** Visual charts, detailed logs, and budget tracking for financial clarity.
+- **Privacy & Security:** User data is securely managed with Firebase.
+
+---
+
+## 📲 Getting Started
+
+1. **Clone the repository:**
+   ```sh
+   git clone <repo-url>
+   ```
+2. **Open in Android Studio.**
+3. **Configure Firebase:**
+   - Add your `google-services.json` to `app/`.
+   - Set up Firebase Authentication and Realtime Database in the Firebase Console.
+4. **Build & Run the app.**
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📧 Contact
+
+For questions, suggestions, or support, please contact [your-email@example.com](mailto:your-email@example.com).
+
+---
+
+*BillBuddy – Making group finances simple, transparent, and fun!*
