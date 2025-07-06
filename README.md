@@ -20,7 +20,7 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Secure Authentication:** Sign up and log in with email/password.
 - **Expense Tracking:** Log, categorize, and review expenses with detailed history.
@@ -37,7 +37,7 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 
 ---
 
-## 🖼️ App Interface Previews
+## App Interface Previews
 
 ### Home Page
 <p align="center"><img src="Interfaces/Home%20Page.gif" alt="Home Page" width="350" height="220"/></p>
@@ -61,7 +61,7 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Bill_Buddy/
@@ -78,7 +78,7 @@ Bill_Buddy/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Kotlin
 - **Platform:** Android (Min SDK 24, Target SDK 34)
@@ -100,7 +100,7 @@ Bill_Buddy/
 
 ---
 
-## ✨ What Makes BillBuddy Unique?
+## What Makes BillBuddy Unique?
 
 - **All-in-One Solution:** Combines expense tracking, bill splitting, and chat in a single app.
 - **Real-Time Collaboration:** Instant sync of expenses, chats, and splits across all devices.
@@ -110,7 +110,7 @@ Bill_Buddy/
 
 ---
 
-## 📲 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```sh
@@ -124,21 +124,33 @@ Bill_Buddy/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+To contribute:
+1. **Fork the Project**
+2. **Create your Feature Branch**
+    ```bash
+    git checkout -b feature/AmazingFeature
+    ```
+3. **Commit your Changes**
+    ```bash
+    git commit -m 'Add some AmazingFeature'
+    ```
+4. **Push to the Branch**
+    ```bash
+    git push origin feature/AmazingFeature
+    ```
+5. **Open a Pull Request**
+
+Feel free to open issues for bugs, suggestions, or questions. We appreciate your help in making BillBuddy better!
+
 ---
 
-## 📜 License
+## Contact
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📧 Contact
-
-For questions, suggestions, or support, please contact [your-email@example.com](mailto:your-email@example.com).
+Harsh Deep - [LinkedIn](https://www.linkedin.com/in/harshdeep7199/) - [Email](harshdeep7199@gmail.com)
 
 ---
 
