@@ -6,7 +6,21 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 
 ---
 
-## 🚀 Features at a Glance
+## Table of Contents
+
+- [Features](#features)
+- [App Interface Previews](#app-interface-previews)
+- [Project Structure](#project-structure)
+- [Tech Stack](#tech-stack)
+- [What Makes BillBuddy Unique?](#what-makes-billbuddy-unique)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## 🚀 Features
 
 - **Secure Authentication:** Sign up and log in with email/password.
 - **Expense Tracking:** Log, categorize, and review expenses with detailed history.
@@ -26,19 +40,36 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 ## 🖼️ App Interface Previews
 
 ### Home Page
-![Home Page](Interfaces/Home%20Page.gif)
+<p align="center"><img src="Interfaces/Home%20Page.gif" alt="Home Page" width="350"/></p>
 
 ### Track Expense
-![Track Expense](Interfaces/Track%20Expense.jpg)
+<p align="center"><img src="Interfaces/Track%20Expense.jpg" alt="Track Expense" width="350"/></p>
 
 ### Split Bill
-![Split Bill](Interfaces/Split%20Bill.jpg)
+<p align="center"><img src="Interfaces/Split%20Bill.jpg" alt="Split Bill" width="350"/></p>
 
 ### Chat
-![Chat](Interfaces/Chat.jpg)
+<p align="center"><img src="Interfaces/Chat.jpg" alt="Chat" width="350"/></p>
 
 ### User Profile
-![User Profile](Interfaces/User%20Profile.gif)
+<p align="center"><img src="Interfaces/User%20Profile.gif" alt="User Profile" width="350"/></p>
+
+---
+
+## 📁 Project Structure
+
+```
+Bill_Buddy/
+├── app/                  # Main Android app module
+│   ├── src/              # Source code (activities, fragments, viewmodels, etc.)
+│   ├── build.gradle      # App-level Gradle config
+│   └── ...
+├── Interfaces/           # App interface images and GIFs
+├── build.gradle          # Project-level Gradle config
+├── settings.gradle       # Gradle settings
+├── README.md             # Project documentation
+└── ...
+```
 
 ---
 
@@ -91,6 +122,12 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
