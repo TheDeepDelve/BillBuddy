@@ -65,15 +65,19 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 
 ```
 Bill_Buddy/
-├── app/                  # Main Android app module
-│   ├── src/              # Source code (activities, fragments, viewmodels, etc.)
-│   ├── build.gradle      # App-level Gradle config
-│   └── ...
-├── Interfaces/           # App interface images and GIFs
-├── build.gradle          # Project-level Gradle config
-├── settings.gradle       # Gradle settings
-├── README.md             # Project documentation
-└── ...
+├── app/                      
+│   ├── src/
+│   │   ├── main/             # Main application code (activities, fragments, viewmodels, adapters, utils, resources)
+│   │   ├── test/             
+│   │   └── androidTest/      
+│   ├── build.gradle          # App-level Gradle config
+│   └── ...                   # Other app-specific files
+├── Interfaces/               # App interface images and GIFs for documentation
+├── build.gradle              
+├── settings.gradle           # Gradle settings
+├── README.md                 
+├── local.properties          # Local environment properties (not versioned)
+└── ...                       # Other support files
 ```
 
 ---
