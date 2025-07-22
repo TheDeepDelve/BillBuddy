@@ -38,38 +38,25 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 
 ## App Interface Previews
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="Interfaces/Home%20Page.gif" alt="Home Page" width="250" height="160"/><br/>
-      <em>Home Page</em><br/>
-      <small>Dashboard with recent expenses, balances, and quick actions.</small>
-    </td>
-    <td align="center">
-      <img src="Interfaces/Track%20Expense%20UI.jpg" alt="Track Expense" width="250" height="160"/><br/>
-      <em>Track Expense</em><br/>
-      <small>Log and categorize your expenses with ease.</small>
-    </td>
-    <td align="center">
-      <img src="Interfaces/Split%20Bill%20UI.jpg" alt="Split Bill" width="250" height="160"/><br/>
-      <em>Split Bill</em><br/>
-      <small>Split bills among friends, assign shares, and track settlements.</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Interfaces/Chat%20UI.jpg" alt="Chat" width="250" height="160"/><br/>
-      <em>Chat</em><br/>
-      <small>Discuss expenses and coordinate with your group in real time.</small>
-    </td>
-    <td align="center">
-      <img src="Interfaces/User%20Profile%20UI.jpg" alt="User Profile" width="250" height="160"/><br/>
-      <em>User Profile</em><br/>
-      <small>Manage your profile, view stats, and customize preferences.</small>
-    </td>
-    <td></td>
-  </tr>
-</table>
+### Home Page
+<p align="center"><img src="Interfaces/Home%20Page.gif" alt="Home Page" width="70%" style="max-width: 800px;"/></p>
+<p align="center"><em>Dashboard with recent expenses, balances, and quick actions.</em></p>
+
+### Track Expense
+<p align="center"><img src="Interfaces/Track%20Expense%20UI.jpg" alt="Track Expense"/></p>
+<p align="center"><em>Log and categorize your expenses with ease.</em></p>
+
+### Split Bill
+<p align="center"><img src="Interfaces/Split%20Bill%20UI.jpg" alt="Split Bill"/></p>
+<p align="center"><em>Split bills among friends, assign shares, and track settlements.</em></p>
+
+### Chat
+<p align="center"><img src="Interfaces/Chat%20UI.jpg" alt="Chat"/></p>
+<p align="center"><em>Discuss expenses and coordinate with your group in real time.</em></p>
+
+### User Profile
+<p align="center"><img src="Interfaces/User%20Profile%20UI.jpg" alt="User Profile" /></p>
+<p align="center"><em>Manage your profile, view stats, and customize preferences.</em></p>
 
 ---
 
