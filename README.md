@@ -43,19 +43,19 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 <p align="center"><em>Dashboard with recent expenses, balances, and quick actions.</em></p>
 
 ### Track Expense
-<p align="center"><img src="Interfaces/Track%20Expense.jpg" alt="Track Expense" width="350" height="220"/></p>
+<p align="center"><img src="Interfaces/Track%20Expense%20UI.jpg" alt="Track Expense" width="350" height="220"/></p>
 <p align="center"><em>Log and categorize your expenses with ease.</em></p>
 
 ### Split Bill
-<p align="center"><img src="Interfaces/Split%20Bill.jpg" alt="Split Bill" /></p>
+<p align="center"><img src="Interfaces/Split%20Bill%20UI.jpg" alt="Split Bill" /></p>
 <p align="center"><em>Split bills among friends, assign shares, and track settlements.</em></p>
 
 ### Chat
-<p align="center"><img src="Interfaces/Chat.jpg" alt="Chat"/></p>
+<p align="center"><img src="Interfaces/Chat%20UI.jpg" alt="Chat"/></p>
 <p align="center"><em>Discuss expenses and coordinate with your group in real time.</em></p>
 
 ### User Profile
-<p align="center"><img src="Interfaces/User%20Profile.gif" alt="User Profile" width="350" height="220"/></p>
+<p align="center"><img src="Interfaces/User%20Profile%20UI.gif" alt="User Profile" width="350" height="220"/></p>
 <p align="center"><em>Manage your profile, view stats, and customize preferences.</em></p>
 
 ---
