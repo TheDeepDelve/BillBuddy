@@ -47,7 +47,7 @@ BillBuddy is a modern Android app that makes expense tracking, group bill splitt
 <p align="center"><em>Log and categorize your expenses with ease.</em></p>
 
 ### Split Bill
-<p align="center"><img src="Interfaces/Split%20Bill.jpg" alt="Split Bill" width="350" height="220"/></p>
+<p align="center"><img src="Interfaces/Split%20Bill.jpg" alt="Split Bill" width="450" height="1000"/></p>
 <p align="center"><em>Split bills among friends, assign shares, and track settlements.</em></p>
 
 ### Chat
